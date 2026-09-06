@@ -1,0 +1,30 @@
+.country{
+    border: 1px solid rgba(34, 137, 226, 0.097);
+    border-radius: 10px;
+    text-align: center;
+    margin: 12px;
+    color: rgba(25, 23, 23, 0.851);
+    padding: 10px;
+}
+.text{
+    color: #212020;
+    font-style:italic;
+}
+
+.country-visited{
+    background: rgb(89, 238, 244);
+}
+.visited{
+    font-size: 15px;
+    color: rgb(130, 130, 133);
+    display: inline;
+    position: relative;
+}
+.btn{
+    font-size: 12px;
+    background: rgb(45, 211, 200);
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}

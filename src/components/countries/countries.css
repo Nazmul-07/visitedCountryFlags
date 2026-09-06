@@ -1,0 +1,12 @@
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.countries img{
+    width: 200px;
+    height: 100px;
+    border-radius: 8px;
+
+}
