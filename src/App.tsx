@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-    <h2 className='heading'>Nazmul on the goo...</h2>
+    <h2 className='heading mainhead'>Nazmul on the goo...</h2>
     <Suspense fallback = {<div className='loading'>Data Loading.......</div>} >
     <Countries countriesPromise={countriesPromise()} ></Countries>
     </Suspense>

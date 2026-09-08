@@ -1,15 +1,22 @@
 .heading{
     text-align: center;
-    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid gray;
     width: 300px;
     margin: auto;
     border-radius: 5px;
-    font-size: 30px;
+    font-size: 20px;
     padding: 5px 12px;
     margin-top: 4px;
     margin-bottom: 10px;
 }
 .loading{
     text-align: center;
-    font-size: large;
+    font-size: 30px;
+    align-items: center;
+}
+.mainhead{
+    background: rgb(58, 239, 230);
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif ;
 }

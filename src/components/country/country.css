@@ -1,14 +1,16 @@
 .country{
-    border: 1px solid rgba(34, 137, 226, 0.097);
+    border: 1px solid gray;
     border-radius: 10px;
     text-align: center;
     margin: 12px;
     color: rgba(25, 23, 23, 0.851);
     padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .text{
     color: #212020;
     font-style:italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .country-visited{
@@ -19,6 +21,7 @@
     color: rgb(130, 130, 133);
     display: inline;
     position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .btn{
     font-size: 12px;
@@ -29,4 +32,5 @@
     color: rgb(0, 0, 0);
     cursor: pointer;
     margin-left: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

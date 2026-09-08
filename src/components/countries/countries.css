@@ -10,3 +10,7 @@
     border-radius: 8px;
 
 }
+.visited-flags img{
+    width: 200px;
+    height: 100px;
+}
